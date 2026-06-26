@@ -1,1 +1,0 @@
-Scientific Programming Project
